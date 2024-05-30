@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\partials\\_changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\partials\\_changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\passwordreset.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\passwordreset.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\partials\\_service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\partials\\_service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\partials\\_loginstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\partials\\_loginstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\controllers\\registermembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\controllers\\registermembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\master.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\master.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\pages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\pages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\registerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\registerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\umbraco\\models\\changingpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\umbraco\\models\\changingpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\partials\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\partials\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\macropartials\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\macropartials\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\macropartials\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\macropartials\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\partials\\search\\_umbracosearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\partials\\search\\_umbracosearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\e-learning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\e-learning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\partials\\search\\_searchbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\partials\\search\\_searchbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\partials\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\partials\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\partials\\forms\\themes\\default\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\partials\\forms\\themes\\default\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\partials\\_aboutsection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\partials\\_aboutsection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\partials\\_coursecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\partials\\_coursecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\views\\errorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\views\\errorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\umbraco\\models\\courses.generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\umbraco\\models\\courses.generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|c:\\users\\s3\\onedrive\\desktop\\umbracoproject\\umbracoproject\\e-learning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D9D3488-38E6-4262-B820-9D74EC553C09}|E-Learning\\E-Learning.csproj|solutionrelative:e-learning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_LoginStatus.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Partials\\_LoginStatus.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_LoginStatus.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Partials\\_LoginStatus.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T12:02:48.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pages.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Pages.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Pages.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Pages.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Pages.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T11:54:52.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordReset.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\PasswordReset.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\PasswordReset.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\PasswordReset.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\PasswordReset.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T09:18:31.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\RegisterLogin.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\RegisterLogin.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\RegisterLogin.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\RegisterLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:47:53.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Controllers\\RegisterMemberController.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Controllers\\RegisterMemberController.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Controllers\\RegisterMemberController.cs",
+              "RelativeToolTip": "E-Learning\\Controllers\\RegisterMemberController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAIwKUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:55:41.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Partials\\_ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_ChangePassword.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Partials\\_ChangePassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T11:02:35.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\About.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\About.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\About.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:38:42.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Service.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_Service.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Partials\\_Service.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_Service.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Partials\\_Service.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T12:46:13.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Courses.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Courses.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Courses.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Courses.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Courses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:48:34.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Search.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Search.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Search.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T09:21:42.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Master.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Master.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Master.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Master.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Master.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T13:01:39.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_Header.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Partials\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_Header.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Partials\\_Header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T08:46:32.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E-Learning\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:49:51.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChangingPasswordModel.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\umbraco\\models\\ChangingPasswordModel.cs",
+              "RelativeDocumentMoniker": "E-Learning\\umbraco\\models\\ChangingPasswordModel.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\umbraco\\models\\ChangingPasswordModel.cs",
+              "RelativeToolTip": "E-Learning\\umbraco\\models\\ChangingPasswordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:55:07.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Partials\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_Footer.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Partials\\_Footer.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAE4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:52:44.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\MacroPartials\\Register.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\MacroPartials\\Register.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\MacroPartials\\Register.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\MacroPartials\\Register.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T05:28:18.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\MacroPartials\\Login.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\MacroPartials\\Login.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\MacroPartials\\Login.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\MacroPartials\\Login.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T06:57:37.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_UmbracoSearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\Search\\_UmbracoSearch.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Partials\\Search\\_UmbracoSearch.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\Search\\_UmbracoSearch.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Partials\\Search\\_UmbracoSearch.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T09:27:46.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Program.cs",
+              "RelativeDocumentMoniker": "E-Learning\\Program.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Program.cs",
+              "RelativeToolTip": "E-Learning\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:39:27.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_SearchBox.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\Search\\_SearchBox.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Partials\\Search\\_SearchBox.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\Search\\_SearchBox.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Partials\\Search\\_SearchBox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T09:16:00.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "E-Learning.csproj",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\E-Learning.csproj",
+              "RelativeDocumentMoniker": "E-Learning\\E-Learning.csproj",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\E-Learning.csproj",
+              "RelativeToolTip": "E-Learning\\E-Learning.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T08:58:56.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_CourseCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_CourseCategory.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Partials\\_CourseCategory.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_CourseCategory.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Partials\\_CourseCategory.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T12:26:52.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\Forms\\Themes\\default\\Form.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Partials\\Forms\\Themes\\default\\Form.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\Forms\\Themes\\default\\Form.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Partials\\Forms\\Themes\\default\\Form.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:44:41.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Home.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Home.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Home.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Home.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T13:04:22.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Contact.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Contact.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Contact.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:46:18.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_AboutSection.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_AboutSection.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\Partials\\_AboutSection.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\Partials\\_AboutSection.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\Partials\\_AboutSection.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T11:37:40.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Courses.generated.cs",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\umbraco\\models\\Courses.generated.cs",
+              "RelativeDocumentMoniker": "E-Learning\\umbraco\\models\\Courses.generated.cs",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\umbraco\\models\\Courses.generated.cs",
+              "RelativeToolTip": "E-Learning\\umbraco\\models\\Courses.generated.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAnwDkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:05:42.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\ErrorPage.cshtml",
+              "RelativeDocumentMoniker": "E-Learning\\Views\\ErrorPage.cshtml",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\Views\\ErrorPage.cshtml",
+              "RelativeToolTip": "E-Learning\\Views\\ErrorPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:48:38.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Learning\\appsettings.json",
+              "ToolTip": "C:\\Users\\s3\\OneDrive\\Desktop\\UmbracoProject\\UmbracoProject\\E-Learning\\appsettings.json",
+              "RelativeToolTip": "E-Learning\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T13:05:07.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿@using Umbraco.Cms.Web.Common.PublishedModels;
+@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage<ContentModels.RegisterLogin>
+@using ContentModels = Umbraco.Cms.Web.Common.PublishedModels;
+@{
+	Layout = "Master.cshtml";
+}
+<div class="container">
+@await Umbraco.RenderMacroAsync("Login")
+</div>
+<div class="container">
+	@await Umbraco.RenderMacroAsync("Register")
+</div>

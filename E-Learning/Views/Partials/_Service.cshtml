@@ -1,0 +1,31 @@
+﻿@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage;
+@using Umbraco.Cms.Web.Common.PublishedModels;
+@using Umbraco.Cms.Core.Models;
+
+@{
+    var rootNode = Model.Root() as Home;
+    var childrenNode = rootNode.Children.ToList();
+    var service = childrenNode.DescendantsOrSelfOfType("service").FirstOrDefault() as Service;
+}
+
+<!-- Service Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-4">
+            @foreach (var item in service.Services)
+            {
+                var services = item.Content as ServiceSection;
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-4">
+                            <i class="fa fa-3x  text-primary mb-4">@services.ServiceIcon</i>
+                            <h5 class="mb-3">@services.ServiceHeading</h5>
+                            <p>@services.ServiceDescription</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<!-- Service End -->

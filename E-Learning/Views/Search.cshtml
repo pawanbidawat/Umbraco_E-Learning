@@ -1,0 +1,17 @@
+﻿@using Umbraco.Cms.Web.Common.PublishedModels;
+@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage<ContentModels.Search>
+@using ContentModels = Umbraco.Cms.Web.Common.PublishedModels;
+@{
+	Layout = "Master.cshtml";
+
+	string searchItem = Context?.Request?.Query["query"].ToString();
+}
+
+<div>
+	@if (string.IsNullOrWhiteSpace(searchItem))
+	{
+		<p>Enter search term</p>
+	}
+	@* Enable search *@
+	<partial name="Search/_UmbracoSearch" model="(searchItem, Umbraco)">
+</div>
