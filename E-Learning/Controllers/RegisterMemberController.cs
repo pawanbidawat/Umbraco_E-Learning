@@ -1,8 +1,13 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Net;
+using System.Net.Mail;
+using System.Web;
 using Umbraco.Cms.Core.Cache;
 using Umbraco.Cms.Core.Logging;
 using Umbraco.Cms.Core.Models;
+using Umbraco.Cms.Core.Models.ContentEditing;
+using Umbraco.Cms.Core.Models.Membership;
 using Umbraco.Cms.Core.Routing;
 using Umbraco.Cms.Core.Scoping;
 using Umbraco.Cms.Core.Security;
@@ -23,7 +28,11 @@ namespace E_Learning.Controllers
         private readonly IMemberService _memberService;
         private readonly IMemberSignInManager _memberSignInManager;
         private readonly ICoreScopeProvider _coreScopeProvider;
+        private readonly IConfiguration _configuration;
+        private readonly IHttpContextAccessor _httpContextAccessor;
         public RegisterMemberController(
+            IConfiguration configuration,
+            IHttpContextAccessor httpContextAccessor,
             IMemberManager memberManager,
             IMemberService memberService,
             IMemberSignInManager memberSignInManager,
@@ -38,6 +47,8 @@ namespace E_Learning.Controllers
             _memberService = memberService;
             _memberSignInManager = memberSignInManager;
             _coreScopeProvider = coreScopeProvider;
+            _configuration = configuration;
+            _httpContextAccessor = httpContextAccessor;
         }
 
         [HttpPost]
@@ -167,6 +178,7 @@ namespace E_Learning.Controllers
         [HttpPost]
         public async Task<IActionResult> ChangePassword(ChangingPasswordModel model)
         {
+            var token = Request.Query["token"];
             var passwordvalid = _memberManager.ValidatePasswordAsync(model.NewPassword).Result;
             if (passwordvalid.Succeeded)
             {
@@ -198,6 +210,73 @@ namespace E_Learning.Controllers
                 TempData["ValidationError"] = passwordvalid.Errors.ToString();
             }
 
+            return CurrentUmbracoPage();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> ForgotPassword(string email,string token)
+        {
+            try
+            {
+                var identityUser = await _memberManager.FindByEmailAsync(email);
+                
+                
+                //generating token and sending to the email
+
+                if (identityUser != null)
+                {
+                    token = await _memberManager.GeneratePasswordResetTokenAsync(identityUser);
+                    var encodeToken = WebUtility.UrlEncode(token);
+                    var MailSetting = _configuration.GetSection("MailSetting");
+                    MailMessage message = new MailMessage();
+                    message.From = new MailAddress($"{MailSetting.GetSection("SenderEmail").Value}");
+                    message.To.Add(new MailAddress(email));
+                    message.Subject = "Testing";
+                    var http = _httpContextAccessor.HttpContext.Request.Scheme;
+                    var host = _httpContextAccessor.HttpContext.Request.Host.ToString();
+                    var link = $"{http}://{host}/resetforgotpassword/?token={encodeToken}&&userid={identityUser.Id}";
+                    message.Body = $"Click the link below to reset the password :</br> <a href={link}> Click Here </a>";
+
+                    SmtpClient smtp = new SmtpClient();
+                    smtp.Host = $"{MailSetting.GetSection("Server").Value}";
+                    smtp.Port = Convert.ToInt32(MailSetting.GetSection("Port").Value);
+
+                    smtp.UseDefaultCredentials = false;
+                    smtp.Credentials = new System.Net.NetworkCredential($"{MailSetting.GetSection("SenderEmail").Value}", $"{MailSetting.GetSection("Password").Value}");
+                    smtp.EnableSsl = true;
+                    smtp.Send(message);
+                    smtp.Dispose();
+
+                }
+            }
+
+            catch (Exception e)
+            {
+                return null;
+            }
+
+            return CurrentUmbracoPage();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> ResetForgotPassword(string newpassword)
+        {
+            var httpContext = _httpContextAccessor.HttpContext;
+            var queryString = httpContext.Request.QueryString.ToString();
+            var queryParameters = HttpUtility.ParseQueryString(queryString);
+
+            var TokenId =queryParameters["token"];
+            var UserId = WebUtility.UrlDecode(queryParameters["userid"]);
+
+            var member = await _memberManager.FindByIdAsync(UserId);
+            if (member != null)
+            {
+                var result = await _memberManager.ResetPasswordAsync(member, TokenId, newpassword);
+                if (result.Succeeded)
+                {
+                    return Redirect("/about");
+                }
+            }
             return CurrentUmbracoPage();
         }
     }
